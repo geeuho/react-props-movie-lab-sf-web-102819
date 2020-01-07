@@ -23,7 +23,7 @@ const movieData = [
     IMDBRating: 0,
     genres: ['an awful movie'],
     poster: 'escape-from-vim'
-  },
+  }, 
   {
     title: 'GoldenEye',
     IMDBRating: 4,
