@@ -19,10 +19,6 @@ export default class CardBack extends Component {
     // implement meeeee! See the readme for instructions
   }
 
-  generateArray = (array) => {
-    implode(", ", array)
-  }
-
   render() {
     return (
       <div className="card-back">
